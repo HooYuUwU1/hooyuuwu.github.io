@@ -1,0 +1,6 @@
+{
+  "name": "Minecraft Addon Translator",
+  "description": "A powerful client-side tool for translating Minecraft Bedrock addons (.mcpack, .mcaddon, .zip) using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
